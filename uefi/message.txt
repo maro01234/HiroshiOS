@@ -1,0 +1,12 @@
+Hello World from HiroshiOS!
+
+   +-----+-----+     >>>
+   |     |     |      >>>
+   |     |     |       >>>
+   +-----+-----+
+   |     |     |       >>>
+   |     |     |      >>>
+   +-----+-----+     >>>
+
+UEFI boot succeeded.
+Press any key to return...
